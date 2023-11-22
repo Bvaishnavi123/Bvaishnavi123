@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bajaj Vaishnavi</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
+<p align="center" ><samp> I started my journey with a degree in Civil Engineering but I was always drawn to this virtual world of Coding</samp></p>
+<p align="center" ><samp align="center">it made me curious that one can create unique virtual platforms just by coding. This started to build up my interest in web development.</samp></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bvaishnavi123&label=Profile%20views&color=0e75b6&style=flat" alt="bvaishnavi123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bvaishnavi123" alt="bvaishnavi123" /></a> </p>
