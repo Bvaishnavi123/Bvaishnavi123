@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bvaishnavi123" alt="bvaishnavi123" /></a> </p>
 
-- 🔭 I’m currently pursuing **MERN stack course at Masai School**
-
-- 🌱 I’m currently learning **React.js**
-
 - 👨‍💻 All of my projects are available at [https://vaishnaviportfolio123.netlify.app/](https://vaishnaviportfolio123.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@vpbajaj1999](https://medium.com/@vpbajaj1999)
